@@ -209,6 +209,7 @@ p {
     margin: 0 2% 20px;
     justify-content: space-around;
     text-align: left;
+    padding-right: 0%;
 }
 
 .bottom-content .text-container {
